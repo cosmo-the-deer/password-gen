@@ -12,7 +12,7 @@ def clear_screen():
     elif os.name == "nt":
         os.system("clr")
     else:
-        raise Exception("Your system is not windows or linux cannot clear")
+        raise Exception("Your system is not windows or uniux based system cannot clear")
 
 #generates the password and returns it
 def generate_password(length):
