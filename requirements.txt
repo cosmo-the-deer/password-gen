@@ -1,0 +1,5 @@
+# requirements.txt for password generator
+# List all required packages here
+random  # standard library, no install needed
+os      # standard library, no install needed
+time    # standard library, no install needed
