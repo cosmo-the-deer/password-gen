@@ -1,4 +1,4 @@
-# password-gen
+# Password-gen / Key-gen
 
 built by cosmo_the_deer, mit license 2025
 ## a password generator build in python
@@ -8,5 +8,5 @@ built by cosmo_the_deer, mit license 2025
 
 ----
 
-just run the main.py no extra modules should be needed to be installed
+just run the main.py (no extra modules should be needed to be installed)
 and just enter the length.
